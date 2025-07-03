@@ -1,0 +1,14 @@
+# 🌿 Bienvenido a mi Digital Garden
+
+Soy Gabriel Pinheiro, curioso por naturaleza, creador autodidacta y apasionado por la ciencia de datos, el surf, la escalada y el diseño de soluciones con propósito.
+
+Este espacio es mi jardín digital: un lugar donde cultivo mis ideas, aprendizajes, proyectos y reflexiones.  
+No todo está terminado. Pero todo tiene raíz.
+
+👉 Explorá por temas:  
+- Ciencia de Datos  
+- Proyectos  
+- Filosofía y pensamiento  
+- Productividad emocional
+
+Gracias por visitar.
