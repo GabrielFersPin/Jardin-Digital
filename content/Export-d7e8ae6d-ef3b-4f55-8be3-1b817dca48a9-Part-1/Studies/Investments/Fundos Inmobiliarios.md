@@ -1,0 +1,24 @@
+# Fundos Inmobiliarios
+
+- Taxa de vacancia
+    - O quanto de potencial total de aluguel está deixando de ser utilizado
+    - Vacancia baixa é um melhor indicador
+- Dividend Yield
+    - Quanto vc recebe/ quanto vc paga
+    - Dividend yield acumulano no ano
+- P/VPA
+    - P: Valor da cotação atual
+    - VPA: Valor patrimonial avaliado/quantidade de cotas emitidas
+    - P/VPA<1,0 - Subvalorização da cota em relação à sua avaliação
+    - P/VPA>1,0 - Supervalorização da cota em relação à sua avaliação
+- Liquidez
+    - Facilidade do fundo para vender suas cotas
+    - Nº de cotas negociadas
+- Diversificação
+    - Melhor diversificação, menos risco
+- Localização
+- Renda recorrente
+- Relação com os investidores
+- Renda média anual real
+- Performance em relação ao IFIX
+    - IFIX media ponderada de 83 fundos
