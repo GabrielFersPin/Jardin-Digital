@@ -6,9 +6,9 @@ Este espacio es mi jardín digital: un lugar donde cultivo mis ideas, aprendizaj
 No todo está terminado. Pero todo tiene raíz.
 
 👉 Explora por temas:  
-- Ciencia de Datos  
+- Data Sciene Studies  
 - Proyectos  
 - Filosofía y pensamiento  
-- Productividad emocional
+- Estudios de la Universidad
 
 Gracias por visitar.
