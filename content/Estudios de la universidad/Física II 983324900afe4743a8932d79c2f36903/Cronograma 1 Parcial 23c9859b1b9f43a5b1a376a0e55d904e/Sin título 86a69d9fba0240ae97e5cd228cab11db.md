@@ -1,3 +1,0 @@
-# Sin título
-
-Completed: No
