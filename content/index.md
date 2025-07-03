@@ -8,7 +8,8 @@ No todo está terminado. Pero todo tiene raíz.
 👉 Explora por temas:  
 - Data Sciene Studies  
 - Proyectos  
-- Filosofía y pensamiento  
+- Investments 
 - Estudios de la Universidad
+- Reading
 
 Gracias por visitar.
