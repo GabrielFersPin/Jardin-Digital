@@ -5,7 +5,7 @@ Soy Gabriel Pinheiro, curioso por naturaleza, creador autodidacta y apasionado p
 Este espacio es mi jardín digital: un lugar donde cultivo mis ideas, aprendizajes, proyectos y reflexiones.  
 No todo está terminado. Pero todo tiene raíz.
 
-👉 Explorá por temas:  
+👉 Explora por temas:  
 - Ciencia de Datos  
 - Proyectos  
 - Filosofía y pensamiento  
