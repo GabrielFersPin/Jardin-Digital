@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "gabrielferspin.github.io/quartz",
+    baseUrl: "jardin.gabrielfelipef-23.workers.dev",
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
