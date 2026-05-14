@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'GabrielFersPin/Segundo_Cerebro',
+        repo: 'GabrielFersPin/Segundo-Cerebro',
         repoId: "R_kgDOQu-I_Q",
         category: 'General',
         categoryId: "DIC_kwDOQu-I_c4C9ClL",
