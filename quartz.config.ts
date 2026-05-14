@@ -11,13 +11,14 @@ const config: QuartzConfig = {
     pageTitle: "GabrielGPT",
     pageTitleSuffix: "",
     enableSPA: true,
+    enableGPA: true,
     enablePopovers: true,
+    ignorePatterns: ["Templates","Finanzas", "Journal", ".obsidian", "**/Private/**"],
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
