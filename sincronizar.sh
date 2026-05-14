@@ -9,7 +9,7 @@ nvm use v22 --silent || nvm use default --silent
 
 echo "🔄 Copiando notas desde tu Segundo Cerebro..."
 # Sincronizamos las carpetas de forma exacta, borrando lo que ya no esté y excluyendo .git
-rsync -a --delete --exclude='.git' --exclude='.obsidian' /home/gabriel/Documents/Segundo_Cerebro/ /home/gabriel/quartz/content/
+rsync -a --delete --exclude='.git' --exclude='.obsidian' --exclude='*.html' --exclude='*.htm' /home/gabriel/Documents/Segundo_Cerebro/ /home/gabriel/quartz/content/
 
 echo "🚀 Subiendo a GitHub..."
 # Cambiamos al directorio de Quartz por si acaso
