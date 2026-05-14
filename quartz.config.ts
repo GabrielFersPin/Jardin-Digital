@@ -11,7 +11,6 @@ const config: QuartzConfig = {
     pageTitle: "GabrielGPT",
     pageTitleSuffix: "",
     enableSPA: true,
-    enableGPA: true,
     enablePopovers: true,
     ignorePatterns: ["Templates","Finanzas", "Journal", ".obsidian", "**/Private/**"],
     analytics: {
