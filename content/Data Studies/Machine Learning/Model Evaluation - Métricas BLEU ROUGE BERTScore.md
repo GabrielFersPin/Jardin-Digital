@@ -6,6 +6,12 @@ modified: 2026-05-11 11:00
 status: 🟡
 tipo_nota: clase
 profesor: No especificado
+nivel-comprension: ""
+proxima-revision: ""
+ultima-revision: ""
+veces-revisado: 0
+tiempo-repaso: ""
+cards-deck: ""
 ---
 
 # 📝 Model Evaluation - Métricas BLEU, ROUGE y más

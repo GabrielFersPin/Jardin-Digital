@@ -1,11 +1,21 @@
 ---
-tags: [clase, fine-tuning, aprendizaje automático, modelos]
+tags:
+  - clase
+  - fine-tuning
+  - aprendizaje-automático
+  - modelos
 deck: Obsidian::Fine-Tuning
 created: 2026-05-11 11:30
 modified: 2026-05-11 11:30
 status: 🟡
 tipo_nota: clase
 profesor: No especificado
+nivel-comprension: ""
+proxima-revision: ""
+ultima-revision: ""
+veces-revisado: 0
+tiempo-repaso: ""
+cards-deck: ""
 ---
 
 # 📝 Fine-Tuning Methods
