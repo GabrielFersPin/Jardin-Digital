@@ -7,11 +7,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-20
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 async - Programación asincrónica
@@ -184,3 +187,15 @@ async def root():
 ¿Qué es async?::Una forma de escribir código concurrente que pausa sin bloquear el programa. #card
 ¿Cuál es la diferencia entre async y threading?::Async usa concurrencia en un thread; threading usa múltiples threads. #card
 ¿Cuándo debo usar async?::Para operaciones I/O en servidores web y cuando necesites manejar muchas conexiones simultáneamente. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

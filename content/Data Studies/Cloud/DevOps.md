@@ -12,6 +12,9 @@ ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 Infraestructuras y Servicios en la Nube - DevOps y Jenkins
@@ -189,3 +192,15 @@ En cualquier proyecto de software moderno para asegurar entregas rápidas y fiab
 ## 🏷️ Tags Semánticos
 
 # devops #jenkins #alm #cicd #automatizacion
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

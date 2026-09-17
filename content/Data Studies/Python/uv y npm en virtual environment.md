@@ -7,11 +7,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-21
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 `uv`, `npm` y Virtual Environment
@@ -141,3 +144,15 @@ La relación con Python es conceptual:
 ¿Qué es `uv` en Python?::Un comando para arrancar servidores ASGI, típicamente `uvicorn`. #card
 ¿Por qué usar `venv` con `uv`?::Para aislar dependencias y evitar conflictos entre proyectos. #card
 ¿Qué equivalente tiene `npm` en Python?::`pip` y `venv` juntos, donde `pip` instala dependencias y `venv` las aísla. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

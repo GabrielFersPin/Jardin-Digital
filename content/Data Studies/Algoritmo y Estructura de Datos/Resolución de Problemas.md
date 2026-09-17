@@ -12,6 +12,9 @@ tiempo-repaso: ""
 tipo_nota: tecnica
 ultima-revision: 2026-08-12
 veces-revisado: 3
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Resolución de Problemas 🎨
@@ -129,3 +132,15 @@ Guardamos el resultado la primera vez. La segunda vez es instantáneo.
 ¿Qué hace Kruskal visualmente?::Une "islas" de nodos usando las aristas más baratas posibles.
 
 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

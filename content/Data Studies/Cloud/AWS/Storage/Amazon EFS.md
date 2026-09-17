@@ -9,6 +9,9 @@ proxima-revision: 2026-09-06
 ultima-revision: 2026-09-03
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Amazon EFS (Elastic File System)
@@ -115,3 +118,15 @@ EFS es como una carpeta compartida en la nube que varias máquinas pueden utiliz
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

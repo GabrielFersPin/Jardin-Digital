@@ -9,6 +9,9 @@ proxima-revision: ""
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Vector Databases (Bases de Datos Vectoriales)
@@ -326,3 +329,14 @@ La complejidad de búsqueda con HNSW es::O(log n) - navegación jerárquica
 > - 10,000 comparaciones × 0.01ms = 100ms
 > - Con HNSW: ~1,000 comparaciones × 0.01ms = 10ms
 > - **10x más rápido**, y la diferencia crece con más datos
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -12,6 +12,9 @@ veces-revisado: 8
 estado: 🟢 Al día
 tiempo-estimado: 5m
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Notación Big O y Análisis de Complejidad
@@ -682,3 +685,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 
 - [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

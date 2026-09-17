@@ -9,6 +9,9 @@ proxima-revision: 2026-09-11
 ultima-revision: 2026-09-09
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Amazon Inspector
@@ -127,3 +130,15 @@ Amazon Inspector analiza recursos y aplicaciones para encontrar vulnerabilidades
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -12,6 +12,9 @@ veces-revisado: 5
 estado: 🟢 Al día
 tiempo-repaso: 15min
 tiempo-estimado: 30m
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 ## 🎯 Tabla Comparativa Rápida
 
@@ -580,3 +583,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 
 - [ ] Hacer flashcards🏁 ➕ 2025-12-01  #mejora-concepto
 - [x] Hacer otro cuestionario #mejora-practica ➕ 2025-12-01 ✅ 2025-12-10
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

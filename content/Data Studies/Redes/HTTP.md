@@ -9,6 +9,9 @@ proxima-revision: 2026-09-05
 ultima-revision: 2026-09-02
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # HTTP (HyperText Transfer Protoco)
@@ -120,3 +123,15 @@ Es el protocolo que permite la conexión del usuario con la página web
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

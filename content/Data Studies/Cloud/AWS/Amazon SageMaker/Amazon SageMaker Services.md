@@ -1,20 +1,23 @@
 ---
 created: 2026-05-20 11:25
-modified: 2026-09-07
+modified: 2026-09-10
 area: Machine Learning
 tipo_nota: captura_rapida
-status: 🌱 Semilla
-nivel-comprension: 🤔
+status: 🌿 Creciendo
+nivel-comprension: 💡
 dias-para-revision: 2
-ultima-revision: 2026-09-07
-veces-revisado: 4
+ultima-revision: 2026-09-10
+veces-revisado: 5
 tiempo-repaso: ""
 cards-deck: ""
 tags:
   - captura_rapida
   - 2026-05-20
-proxima-revision: 2026-09-08
+proxima-revision: 2026-09-17
 tiempo-estimado: 20min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # AWS Services for MLOps
@@ -124,3 +127,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 - [ ] Tarea para aclarar una duda de concepto. Usa #mejora-concepto
 - [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
 - [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

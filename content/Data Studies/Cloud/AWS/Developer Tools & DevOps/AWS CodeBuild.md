@@ -1,15 +1,19 @@
 ---
 created: 2026-09-07
-modified: 2026-09-07
+modified: 2026-09-10
 area: Cloud
 tipo_nota: captura_rapida
-status: 🌱
-nivel-comprension: ""
-proxima-revision: 2026-09-09
-ultima-revision: 2026-09-07
-veces-revisado: 0
+status: 🌱 Semilla
+nivel-comprension: 🤔
+proxima-revision: 2026-09-17
+ultima-revision: 2026-09-10
+veces-revisado: 1
 tiempo-repaso: 5min
 cards-deck: Nube::DevOps
+tiempo-estimado: 10min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # AWS CodeBuild
@@ -107,3 +111,26 @@ CodeBuild representa la fase de compilación y validación automatizada dentro d
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+---
+
+## 🚧 Plan de Mejora / Tareas Pendientes
+
+Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima revisión. Usa los tags: `#mejora-concepto`, `#mejora-practica`, `#mejora-analogia`.
+
+- [ ] Tarea para aclarar una duda de concepto. Usa #mejora-concepto
+- [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
+- [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

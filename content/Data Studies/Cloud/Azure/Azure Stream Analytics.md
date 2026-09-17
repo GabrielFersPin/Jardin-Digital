@@ -9,6 +9,9 @@ proxima-revision: ""
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Azure Stream Analytics
@@ -187,3 +190,15 @@ What is the difference between a Hopping and a Sliding window?::Hopping windows 
 
 > [!tip] 💡 Próximos pasos
 > _Cuando revises esta nota, actualiza el contador de revisiones y ajusta la próxima fecha según tu comprensión_
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

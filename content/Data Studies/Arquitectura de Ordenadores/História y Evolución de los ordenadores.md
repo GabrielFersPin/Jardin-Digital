@@ -12,6 +12,9 @@ veces-revisado: 3
 estado: 🟡 Atrasado
 tiempo-estimado: 30m
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Historia y Evolución de los Ordenadores
@@ -194,3 +197,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 
 - [ ] Hacer un questionario #mejora-practica 
 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

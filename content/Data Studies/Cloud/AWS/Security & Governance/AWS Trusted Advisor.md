@@ -18,6 +18,8 @@ origen: Skillbuilder
 urgente: false
 tiempo-estimado: 1min
 proxima-revision: 2026-10-19
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # AWS Trusted Advisor
@@ -115,3 +117,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 - [ ] Tarea para aclarar una duda de concepto. Usa #mejora-concepto
 - [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
 - [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -16,6 +16,9 @@ tipo-captura: concepto
 complejidad: ⭐
 origen: Curso
 urgente: false
+proxima-revision: 2026-04-29
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # CrewAI
@@ -179,3 +182,15 @@ result = crew.kickoff(inputs=('topic':'Artificial Intelligence'))
 ---
 
 # pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

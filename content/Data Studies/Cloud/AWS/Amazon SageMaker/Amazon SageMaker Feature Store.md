@@ -9,6 +9,9 @@ proxima-revision: 2026-08-25
 ultima-revision: 2026-08-22
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Amazon SageMaker Feature Store
@@ -156,3 +159,15 @@ _Flashcards pendientes de crear_
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

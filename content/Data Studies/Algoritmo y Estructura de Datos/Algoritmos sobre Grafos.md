@@ -16,6 +16,8 @@ tiempo-repaso: ""
 tipo_nota: tecnica
 ultima-revision: 2026-08-12
 veces-revisado: 3
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # Algoritmos sobre Grafos
@@ -316,3 +318,15 @@ flowchart TD
 - [ ] Implementar Dijkstra visual en Python con `networkx` y `matplotlib`. #mejora-practica
 - [ ] Resolver problema de "Islas" con DFS/BFS. #mejora-practica
 - [ ] Diagrama paso a paso de Kruskal. #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

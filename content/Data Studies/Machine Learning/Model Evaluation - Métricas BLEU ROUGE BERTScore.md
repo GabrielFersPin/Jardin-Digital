@@ -16,6 +16,9 @@ ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 Model Evaluation - Métricas BLEU, ROUGE y más
@@ -277,3 +280,15 @@ BLEU: bajo (palabras diferentes)
 ¿Cuál es la diferencia entre BLEU y ROUGE?::BLEU para traducción, ROUGE para resúmenes. Ambas usan n-gramas. #card
 ¿Por qué BERTScore es mejor que BLEU?::Captura significado semántico además de coincidencias exactas de palabras. #card
 ¿Qué es el trade-off entre precisión y recall?::Precisión = exactitud; Recall = cobertura. F1 es el balance. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

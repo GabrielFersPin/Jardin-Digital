@@ -5,10 +5,13 @@ modified: 2026-02-09
 status: 🌱
 tipo_nota: ""
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-14
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Data Lake
@@ -125,3 +128,14 @@ _Flashcards pendientes de crear_
 
 > [!tip] 💡 Próximos pasos
 > _Cuando revises esta nota, actualiza el contador de revisiones y ajusta la próxima fecha según tu comprensión_
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

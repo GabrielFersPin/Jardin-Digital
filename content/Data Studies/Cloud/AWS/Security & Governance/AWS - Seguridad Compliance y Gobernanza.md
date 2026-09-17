@@ -12,11 +12,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-22
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: AWS::Seguridad-Compliance-Gobernanza
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 AWS - Servicios de Seguridad, Compliance y Gobernanza
@@ -397,3 +400,15 @@ Es un servicio enfocado en la gestión y gobernanza de datos
 ¿Qué es CloudTrail?::Registro de auditoría de todas las acciones realizadas en AWS. #card
 ¿Cuál es la diferencia entre Security Groups y NACLs?::Security Groups a nivel de instancia; NACLs a nivel de subred. #card
 ¿Qué es el Shared Responsibility Model?::AWS asegura infraestructura; el cliente asegura aplicación y datos. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

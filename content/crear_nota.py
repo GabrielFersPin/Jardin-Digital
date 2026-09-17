@@ -39,12 +39,17 @@ created: {created}
 modified: {created}
 area: "{area}"
 tipo_nota: {tipo_nota}
-status: 🌱
+status: "🔴 Por procesar"
+procesamiento: CAPTURA-RAPIDA
 nivel-comprension: ""
+resultado-repaso: ""
 proxima-revision: {proxima_revision}
 ultima-revision: ""
 veces-revisado: 0
+intervalo-dias: 7
 tiempo-repaso: ""
+tiempo-estimado: ""
+prioridad: "media"
 cards-deck: "{mazo}"
 tags: [{tipo_nota}, {date_only}]
 ---
@@ -60,6 +65,17 @@ tags: [{tipo_nota}, {date_only}]
 ## 📝 Desarrollo de la Nota
 
 Empieza a escribir aquí...
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...
 
 """
 

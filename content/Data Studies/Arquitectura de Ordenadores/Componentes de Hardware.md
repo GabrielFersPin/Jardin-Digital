@@ -12,6 +12,9 @@ veces-revisado: 3
 estado: 🟡 Atrasado
 tiempo-estimado: 2min
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
  
 # Componentes del Hardware
@@ -121,3 +124,15 @@ Conexión con mi proyecto: Al entrenar modelos de ML, la GPU actúa como procesa
 - **Veces revisado**: 0
 - **Nivel de comprensión**: 💡 Entiendo bien
 - **Tiempo estimado de repaso**: 10min
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

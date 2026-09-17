@@ -18,6 +18,8 @@ origen: Skillbuilder
 urgente: false
 tiempo-estimado: 2min
 proxima-revision: 2026-08-22
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # Amaon SNS (Simple Notification Service)
@@ -111,3 +113,15 @@ Es un sistema de mensajes que se envían a los subscriptores que defines al conf
 | Nivel de comprensión | `= this.nivel-comprension` |
 
 ---
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

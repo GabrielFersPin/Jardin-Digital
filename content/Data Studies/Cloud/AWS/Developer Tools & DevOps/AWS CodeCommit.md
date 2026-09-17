@@ -9,6 +9,9 @@ proxima-revision: 2026-09-09
 ultima-revision: 2026-09-07
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # AWS CodeCommit
@@ -115,3 +118,15 @@ CodeCommit es el repositorio Git; CodePipeline automatiza el flujo de integraci�
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

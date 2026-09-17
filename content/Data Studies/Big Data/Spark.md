@@ -1,100 +1,133 @@
 ---
-created: 2026-04-07 09:06
-modified: 2026-04-07 09:06
-area: null
+created: 2026-09-10
+modified: 2026-09-16
+area: Big Data
 tipo_nota: tecnica
-status: 🔴 Por procesar
-nivel-comprension: "❓"
-dias-para-revision: -127
-ultima-revision: ""
-veces-revisado: 0
-tiempo-repaso: ""
-cards-deck: null
-procesamiento: CAPTURA-RAPIDA
-prioridad: null
+status: 🌿 Creciendo
+nivel-comprension: 💡
+proxima-revision: 2026-09-23
+ultima-revision: 2026-09-16
+veces-revisado: 1
+tiempo-repaso: 5min
 tipo-captura: concepto
-complejidad: ⭐
 origen: Clase
-urgente: false
+tiempo-estimado: 20min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Spark
 
 > [!info] Contexto captura
-> **Fecha**: 2026-04-07 09:07
+> **Fecha**: 2026-09-10
 > **Origen**: `= this.origen`
-> **Tipo**: `= this.tipo-captura` <!--SR:!2000-01-01,1,250!2000-01-01,1,250!2026-04-15,4,270-->
+> **Tipo**: `= this.tipo-captura`
 
 ---
 
-# pendiente-procesar #captura-rapida
+## 📝 Captura principal
 
-## 📝 Definición
+> [!tip] Lo más importante
+> Apache Spark es un motor para procesar grandes volúmenes de datos de forma distribuida. PySpark es su API para trabajar con Spark desde Python.
 
-Spark es un motor de procesamiento de datos en clúster, diseñado para ser rápido y de propósito general, capaz de manejar grandes volúmenes de datos a través de computación distribuida. Su arquitectura se basa en el uso de Resilient Distributed Datasets (RDDs) que permiten realizar operaciones en memoria para obtener un rendimiento superior al de los sistemas tradicionales basados en disco.
+### 🎯 Detalles / Contenido
 
-## ⚙️ Conceptos Clave
+Spark divide los datos y el trabajo entre varias particiones que pueden procesarse en paralelo. Una aplicación Spark tiene un proceso **driver**, que coordina el trabajo, y procesos **executor**, que ejecutan las tareas sobre los datos.
 
-- **Lazy Evaluation**: Spark no ejecuta las operaciones inmediatamente, sino que las acumula y optimiza su ejecución cuando se realiza una acción que requiere un resultado.
-- **Action**: Son operaciones que devuelven un valor al driver después de ejecutar el flujo de trabajo definido por las transformaciones.
-- **Narrow vs Wild Transformations**:
-  - Narrow: Transformaciones que no requieren el movimiento de datos entre las particiones, como `filter` y `select`.
-  - Wild: Transformaciones que producen una reorganización de datos, como `join` y `group by`, que pueden causar un `shuffle`.
-- **Repartition vs Coalesce**:
-  - Repartition: Aumenta el número de particiones distribuyendo uniformemente los datos.
-  - Coalesce: Disminuye el número de particiones sin causar un `shuffle` innecesario.
-- **DAG (Direct Acyclic Graph)**: Representación gráfica de las operaciones donde no se vuelve al nodo anterior, asegurando un flujo de trabajo unidireccional.
+En PySpark, la abstracción principal para trabajar con datos estructurados es el **DataFrame**. Normalmente se crea mediante una [[SparkSession]] y se transforma usando operaciones como `select`, `filter`, `withColumn` y `groupBy`.
 
-## 💻 Ejemplo Práctico
+Spark distingue entre:
 
-Supongamos que tenemos un conjunto de datos de ventas y queremos calcular la venta media por producto después de aplicar un filtro. Utilizaríamos:
+- **Transformaciones**: describen un nuevo conjunto de datos, pero no ejecutan el trabajo inmediatamente.
+- **Acciones**: solicitan un resultado y desencadenan la ejecución, por ejemplo `show()`, `count()` o `write`.
+- **Lazy evaluation**: Spark espera hasta una acción para construir y optimizar el plan de ejecución.
+- **Narrow transformation**: cada partición de salida depende de pocas particiones de entrada, como `filter`.
+- **Wide transformation**: puede necesitar redistribuir datos entre particiones, como `groupBy` o `join`; esta redistribución se denomina `shuffle`.
 
-```scala
-val ventas = spark.read.csv("ventas.csv")
-val ventasFiltradas = ventas.filter("cantidad > 10")
-val mediaVentas = ventasFiltradas.groupBy("producto").agg(avg("venta"))
+`repartition()` redistribuye los datos y puede provocar un `shuffle`.
+`coalesce()` suele utilizarse para reducir particiones evitando una redistribución completa.
 
-mediaVentas.show()
+```python
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import avg, col
+
+spark = SparkSession.builder.appName("Ventas").getOrCreate()
+
+ventas = spark.read.option("header", True).option("inferSchema", True).csv("ventas.csv")
+resultado = (
+    ventas.filter(col("cantidad") > 10)
+    .groupBy("producto")
+    .agg(avg("venta").alias("venta_media"))
+)
+
+resultado.show()
 ```
 
-Este ejemplo demuestra el uso de transformaciones `filter` y `group by`, y una acción `show` para visualizar el resultado.
-
-## 💭 Reflexiones & Conexiones
-
-- **Conexiones con otros sistemas**: Spark se integra fácilmente con Hadoop y otras herramientas del ecosistema Big Data, lo que lo hace versátil para diferentes aplicaciones de procesamiento de datos.
-- **Optimización de Recursos**: Considerar el uso de `Repartition` y `Coalesce` para optimizar el uso de recursos en clústeres grandes. <!--SR:!2026-04-15,4,270!2000-01-01,1,250-->
-
-## ❓ Preguntas / Dudas pendientes
-
-- ¿Cómo afecta el número de particiones al rendimiento en un clúster de Spark?
-- ¿Cuáles son las mejores prácticas para manejar `shuffles` en operaciones complejas?
+En este ejemplo, `filter`, `groupBy` y `agg` son transformaciones. `show()` es la acción que inicia la ejecución.
 
 ## 🔑 Keywords / Conceptos clave
 
-- Lazy Evaluation
-- Acción
-- Narrow Transformation
-- Wild Transformation
-- Repartition
-- Coalesce
-- DAG
+`Apache Spark`, `PySpark`, `DataFrame`, `driver`, `executor`, `partición`, `transformación`, `acción`, `lazy evaluation`, `shuffle`
+
+> [!note] Para RAG
+> Spark es el motor distribuido; PySpark es la API de Python. El flujo habitual es crear una SparkSession, leer datos, aplicar transformaciones y ejecutar una acción.
+
+## 🎴 Flashcards
+
+¿Qué es PySpark?::La API de Python para trabajar con Apache Spark y procesar datos de forma distribuida. #card 
+
+¿Cuál es la diferencia entre una transformación y una acción?::Una transformación describe una operación que se ejecutará después; una acción solicita un resultado y desencadena la ejecución. #card 
+
+¿Qué es un shuffle?::La redistribución de datos entre particiones, normalmente provocada por operaciones como groupBy o join. #card 
+
+---
+
+## ❓ Preguntas / Dudas pendientes
+
+- [ ] ¿Qué diferencia hay entre el driver y los executors?
+- [ ] ¿Cómo se visualiza el plan de ejecución con `explain()`?
 
 ## 🧩 Conexiones potenciales
 
-- Relación entre Spark y otros frameworks de procesamiento de datos como Hadoop MapReduce.
-- Comparación del rendimiento de Spark en diferentes tipos de clústeres y configuraciones.
+- [[SparkSession]]
+- [[Data Lake]]
+- [[Data Lakehouse]]
 - [[Data Processing]]
 
-## 🎓 Flashcards Educativas
+## ✅ Checklist procesamiento
 
-1. **¿Qué es Lazy Evaluation en Spark?**
-   - Es el retraso de la ejecución de las operaciones hasta que se requiere un resultado, optimizando así el flujo de trabajo. #card
+- [x] Revisar y expandir contenido
+- [x] Crear flashcards si es necesario
+- [ ] Hacer ejercicios relacionados
+- [ ] Conectar con otras notas
+- [ ] Actualizar nivel de comprensión
 
-2. **¿Cuál es la diferencia entre una Narrow y una Wild Transformation en Spark?**
-   - Narrow Transformation opera dentro de una sola partición sin mover datos, mientras que Wild Transformation requiere mover datos entre particiones, causando un `shuffle`. #card <!--SR:!2026-04-15,4,270-->
+## 💭 Notas adicionales / Ideas rápidas
 
-3. **¿Qué función tiene el DAG en Spark?**
-   - El DAG representa el flujo de operaciones en Spark, asegurando que las tareas se ejecuten de manera eficiente y ordenada sin ciclos. #card
+Esta nota resume Spark. Los conceptos concretos de PySpark se desarrollarán en notas atómicas dentro de la carpeta `PySpark`.
 
-4. **¿Cuándo usarías `repartition` en lugar de `coalesce`?**
-   - `Repartition` se usa para aumentar el número de particiones, ideal para distribuir datos uniformemente, mientras que `coalesce` reduce particiones sin causar un `shuffle` adicional. #card
+Tags: #big-data #spark #pyspark #captura-rapida
+
+
+---
+
+## 🚧 Plan de Mejora / Tareas Pendientes
+
+Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima revisión. Usa los tags: `#mejora-concepto`, `#mejora-practica`, `#mejora-analogia`.
+
+- [ ] Tarea para aclarar una duda de concepto. Usa #mejora-concepto
+- [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
+- [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -10,6 +10,10 @@ tiempo-repaso: 15min
 tipo_nota: null
 ultima-revision: '2026-05-25'
 veces-revisado: 1
+proxima-revision: 2026-06-30
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 # 📌 Arquitectura de Cómputo: IaaS vs. Serverless (AWS/Azure)
 
@@ -173,3 +177,14 @@ Referencias externas: Documentación AWS EC2 vs Lambda.
 > [!tip] 💡 Próximos pasos
 > 
 > Cuando revises esta nota, intenta recitar el "Ejemplo Práctico" en voz alta como si estuvieras respondiendo al Manager de Accenture.
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

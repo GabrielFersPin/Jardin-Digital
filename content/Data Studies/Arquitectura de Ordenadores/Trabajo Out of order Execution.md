@@ -16,6 +16,10 @@ modified: 2026-01-15
 tiempo-estimado: 20min
 status: 🌳 Maduro
 cards-deck: ""
+proxima-revision: 2026-02-23
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # La Carrera por la Velocidad: Ejecución Especulativa y Vulnerabilidades
@@ -63,3 +67,14 @@ Descubiertas en 2018, explotan las huellas que deja la ejecución especulativa e
 1. **Kocher, P., et al.** (2019). *Spectre Attacks: Exploiting Speculative Execution*.
 2. **Lipp, M., et al.** (2018). *Meltdown: Reading Kernel Memory from User Space*.
 3. **Intel Corporation**. *Intel Analysis of Speculative Execution Side Channels*.
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -20,6 +20,8 @@ tags:
 deck: Obsidian::Fine-Tuning
 profesor: No especificado
 tiempo-estimado: 10min
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 
@@ -147,3 +149,15 @@ El modelo ya tiene representaciones generales del lenguaje; el fine-tuning ajust
 ¿Qué es LoRA?::Low-Rank Adaptation, método eficiente para ajustar solo partes pequeñas del modelo. #card
 ¿Cuándo usar adapters?::Cuando se necesitan múltiples adaptaciones sin entrenar el modelo completo. #card
 ¿Cuál es el riesgo del full fine-tuning?::Sobreajuste y altos costos de memoria. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

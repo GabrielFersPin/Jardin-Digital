@@ -7,11 +7,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-24
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 MCP - Model Context Protocol
@@ -130,3 +133,15 @@ El ejemplo usa un servidor FastMCP llamado `research`, define herramientas `sear
 ¿Qué es MCP?::Protocolo para conectar un LLM con fuentes externas de forma segura. #card
 ¿Cuál es la ventaja principal de FastMCP?::Permite definir herramientas como funciones y genera esquemas automáticamente. #card
 ¿En qué se diferencia FastMCP de FastAPI?::FastMCP es especializado en integración LLM/herramientas, FastAPI es un framework HTTP para APIs generales. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

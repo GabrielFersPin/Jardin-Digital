@@ -5,11 +5,14 @@ area: ""
 tipo_nota: ""
 status: 🌱
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-13
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 estado: "pendiente"
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # AWS Site-to-Site VPN
@@ -104,3 +107,15 @@ Es un servicio para conectar de forma segura entre tu y AWS
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

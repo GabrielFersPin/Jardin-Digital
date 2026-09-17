@@ -9,6 +9,9 @@ proxima-revision: 2026-09-11
 ultima-revision: 2026-09-09
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # AWS Security Hub
@@ -30,7 +33,7 @@ tiempo-repaso: 5min
 
 Permite:
 
-- Recibir alertas de servicios como [[Amazon GuardDuty]], Inspector, Macie y IAM Access Analyzer.
+- Recibir alertas de servicios como [[Amazon GuardDuty]], [[Amazon Inspector]], [[Amazon Macie]] y IAM Access Analyzer.
 - Detectar configuraciones que no cumplen buenas prácticas.
 - Unificar hallazgos en un panel central.
 - Asignar niveles de gravedad y estados.
@@ -122,3 +125,15 @@ Security Hub funciona como un centro de control para consolidar, priorizar y ges
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

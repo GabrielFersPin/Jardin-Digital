@@ -9,6 +9,9 @@ proxima-revision: ""
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Git - Sistema de Control de Versiones
@@ -489,3 +492,15 @@ models/*.pkl
 > - Experimentar con Git Hooks para automatización
 > - Conectar con notas sobre CI/CD y DevOps practices
 > - Añadir ejemplos de resolución de conflictos complejos
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -11,6 +11,9 @@ tipo_nota: tecnica
 ultima-revision: 2026-08-14
 veces-revisado: 2
 tiempo-estimado: 10min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📌 Data Lakehouse
@@ -125,3 +128,14 @@ El componente que añade transacciones ACID a un Data Lake para convertirlo en u
 
 > [!tip] 💡 Próximos pasos
 > _Cuando revises esta nota, actualiza el contador de revisiones y ajusta la próxima fecha según tu comprensión_
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

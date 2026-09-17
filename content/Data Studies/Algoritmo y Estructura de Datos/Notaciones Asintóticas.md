@@ -12,6 +12,9 @@ veces-revisado: 3
 estado: 🟢 Al día
 tiempo-repaso: 15min
 tiempo-estimado: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Notaciones Asintóticas: Big O, Omega y Theta
@@ -385,3 +388,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 
 - [x] Tengo que hacer algún ejercicio🏁 #mejora-concepto ✅ 2025-12-23
 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

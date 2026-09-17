@@ -12,6 +12,9 @@ tipo_nota: tecnica
 area: Arquitectura
 estado: 🟢 Al día
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # CPU - Fundamentos y Componentes Básicos
@@ -288,3 +291,14 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 - [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
     
 - [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

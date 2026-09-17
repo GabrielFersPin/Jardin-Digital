@@ -7,11 +7,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-17
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 ASGI (Asynchronous Server Gateway Interface)
@@ -133,3 +136,15 @@ Sin `async`, la aplicación se comportaría como WSGI tradicional y perdería be
 ¿Qué es ASGI?::Especificación para servidores y aplicaciones web asincrónicas en Python. #card
 ¿Cuál es la principal ventaja de ASGI sobre WSGI?::Manejo concurrente de solicitudes sin bloqueos gracias a async/await. #card
 ¿Qué es uvicorn?::Un servidor ASGI rápido para ejecutar aplicaciones Python asincrónicas. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

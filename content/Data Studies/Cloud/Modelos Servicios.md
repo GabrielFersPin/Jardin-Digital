@@ -12,6 +12,9 @@ created: 2025-11-20
 modified: 2026-08-20
 tiempo-estimado: 10min
 proxima-revision: 2026-09-19
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Modelos de Servicios en la Nube
@@ -160,3 +163,15 @@ Responsabilidades en cloud::En IaaS gestionas desde el SO hacia arriba. En PaaS 
 - **Veces revisado**: 0
 - **Nivel de comprensión**: 💡 Entiendo bien
 - **Tiempo estimado de repaso**: 15min
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

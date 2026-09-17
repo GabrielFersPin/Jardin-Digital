@@ -15,6 +15,9 @@ tags:
   - 2026-05-20
 proxima-revision: 2026-10-18
 tiempo-estimado: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Model Deployment
@@ -48,3 +51,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 - [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia
 - [ ] Crear flashcards📅 ⏳ 2026-08-25 
 - [ ] 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -9,6 +9,9 @@ proxima-revision: 2026-08-28
 ultima-revision: 2026-08-25
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Amazon SageMaker Training Jobs
@@ -159,3 +162,15 @@ Sirve para lanzar un job de entrenamiento de un modelo.
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

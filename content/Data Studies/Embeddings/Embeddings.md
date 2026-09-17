@@ -9,6 +9,9 @@ proxima-revision: ""
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Embeddings (Representaciones Vectoriales)
@@ -253,3 +256,14 @@ La ventaja de all-MiniLM-L6-v2 es::Ligero (22MB), rápido, y suficientemente pre
 > 3. Tu nota de "Albert Camus"
 > 
 > Luego calcula similitudes. ¿Los algoritmos están más cerca entre ellos que con filosofía? ¡Debería!
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

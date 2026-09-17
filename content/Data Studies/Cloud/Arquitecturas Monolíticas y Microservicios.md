@@ -11,6 +11,9 @@ ultima-revision: 2026-08-14
 tiempo-repaso: 5min
 veces-revisado: 2
 tiempo-estimado: 5m
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Arquitecturas Monolíticas
@@ -120,3 +123,15 @@ El monolito sacrifica == escalabilidad == para ganar == velocidad inicial == #ca
 
 > [!tip] 💡 Próximos pasos
 > _Cuando revises esta nota, actualiza el contador de revisiones y ajusta la próxima fecha según tu comprensión_
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

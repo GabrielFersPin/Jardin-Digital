@@ -11,6 +11,10 @@ ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+tipo_nota: tecnica
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-fernandes-pinheiro/)
 
@@ -184,3 +188,14 @@ cards-deck: ""
  - Did a personal AI Agents project
 - April
  - 
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

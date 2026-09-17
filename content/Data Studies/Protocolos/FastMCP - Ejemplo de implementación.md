@@ -7,11 +7,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-23
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: Protocolos::FastMCP_Ejemplo_de_implementacion
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 FastMCP - Ejemplo de implementación
@@ -80,3 +83,15 @@ Registrar el patrón de uso de FastMCP con funciones decoradas y entender cómo 
   - Arranca el servidor MCP usando stdio como transporte.
 - **¿Por qué usar docstrings en FastMCP?**
   - Para que el framework genere automáticamente los esquemas de herramienta.
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

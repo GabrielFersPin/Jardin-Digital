@@ -4,6 +4,7 @@ modified: 2026-02-09 16:24
 area: 
 tipo_nota: tecnica
 status: 🔴 Por procesar
+proxima-revision: 2026-09-15
 nivel-comprension: "❓"
 dias-para-revision: -184
 ultima-revision: ""
@@ -16,6 +17,8 @@ tipo-captura: concepto
 complejidad: ⭐
 origen: Curso
 urgente: false
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # Data Warehouse
@@ -107,3 +110,15 @@ urgente: false
 ---
 
 # pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

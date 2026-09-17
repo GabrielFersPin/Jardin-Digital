@@ -10,11 +10,14 @@ status: 🟡
 tipo_nota: clase
 profesor: No especificado
 nivel-comprension: ""
-proxima-revision: ""
+proxima-revision: 2026-09-16
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 FastMCP vs FastAPI
@@ -104,3 +107,15 @@ Comparar las características y usos de FastMCP y FastAPI para saber cuándo con
   - Para crear APIs HTTP rápidas y tipadas.
 - **¿Qué diferencia el transporte de FastMCP del de FastAPI?**
   - FastMCP usa transporte especializado/stdio mientras FastAPI usa HTTP.
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

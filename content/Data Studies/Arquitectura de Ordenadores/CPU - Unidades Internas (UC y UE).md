@@ -11,6 +11,9 @@ ultima-revision: 2026-08-12
 veces-revisado: 3
 tiempo-repaso: 20min
 tiempo-estimado: 30m
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # CPU - Unidades Internas (UC y UE)
@@ -333,3 +336,15 @@ Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima
 - [ ] Hacer infografia #mejora-concepto
 - [ ] Hacer flashcards #mejora-practica
 - [ ] Crear analogías #mejora-analogia
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

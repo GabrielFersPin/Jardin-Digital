@@ -12,6 +12,9 @@ ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 cards-deck: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # 📝 Prompt Engineering - Técnicas y mejores prácticas
@@ -199,3 +202,15 @@ En FastMCP, los prompts guían cómo los LLMs deciden usar herramientas disponib
 ¿Cuál es la estructura básica de un prompt efectivo?::Contexto + Rol + Tarea + Restricciones + Formato esperado. #card
 ¿Qué es Chain-of-Thought?::Técnica que pide al modelo razonar paso a paso antes de responder. #card
 ¿Cuándo usar temperature alta vs baja?::Temperature baja (0-0.3) para tareas precisas; temperatura alta (0.7+) para creatividad. #card
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -10,6 +10,10 @@ ultima_revision: 2026-08-07
 veces_revisado: 1
 tiempo_repaso: "15min"
 cards-deck: Nube
+proxima-revision: 2026-08-14
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Well-Architected Framework — Los 6 pilares de buenas prácticas
@@ -139,3 +143,15 @@ flowchart TB
 > [!tip] Próximos pasos
 > - Ejecutar la checklist en una revisión de arquitectura y generar acciones priorizadas.
 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

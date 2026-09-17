@@ -9,6 +9,9 @@ veces-revisado: 0
 tiempo-repaso: 5min
 created: 2026-09-07
 modified: 2026-09-07
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Amazon Braket
@@ -112,3 +115,15 @@ Amazon Braket proporciona acceso a simuladores y ordenadores cuánticos sin nece
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

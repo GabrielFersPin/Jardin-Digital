@@ -16,6 +16,8 @@ nivel-comprension: 🎯
 ultima-revision: 2026-08-22
 veces-revisado: 9
 tiempo-repaso: ""
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # Algoritmos de Ordenación
@@ -318,3 +320,15 @@ Los algoritmos O(n²) no siempre son malos:
 Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima revisión. Usa los tags: `#mejora-concepto`, `#mejora-practica`, `#mejora-analogia`.
 
 - [ ] Hacer cuestionario #mejora-concepto 
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

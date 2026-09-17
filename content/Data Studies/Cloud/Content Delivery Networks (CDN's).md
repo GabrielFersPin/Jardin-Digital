@@ -9,6 +9,9 @@ proxima-revision: 2026-09-04
 ultima-revision: 2026-09-01
 veces-revisado: 0
 tiempo-repaso: 5min
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # CDN's
@@ -111,3 +114,15 @@ Una CDN acerca el contenido a los usuarios para mejorar el rendimiento, la dispo
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

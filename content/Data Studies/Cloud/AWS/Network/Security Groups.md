@@ -4,12 +4,15 @@ modified: 2026-08-14
 area: ""
 tipo_nota: ""
 status: 🌱
-nivel-comprension: ""
-proxima-revision: ""
+nivel-comprension: ❓
+proxima-revision: 2026-09-12
 ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
-estado: "pendiente"
+estado: pendiente
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Security Groups
@@ -108,3 +111,15 @@ Actúa como una capa de seguridad a nivel de tráfico, protege el trafico que es
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

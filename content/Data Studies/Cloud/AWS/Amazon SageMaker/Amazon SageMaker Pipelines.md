@@ -10,6 +10,9 @@ ultima-revision: ""
 veces-revisado: 0
 tiempo-repaso: ""
 estado: "pendiente"
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Sagemaker Pipelines
@@ -112,3 +115,15 @@ Es un producto que orquestra el todo pipeline de los modelos
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

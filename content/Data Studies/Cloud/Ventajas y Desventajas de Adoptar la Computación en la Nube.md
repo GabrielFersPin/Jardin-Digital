@@ -12,6 +12,9 @@ created: 2025-11-20
 modified: 2026-08-22
 tiempo-estimado: 10min
 proxima-revision: ""
+resultado-repaso: ""
+intervalo-dias: 7
+prioridad: "media"
 ---
 
 # Ventajas y Desventajas de Adoptar la Computación en la Nube
@@ -180,3 +183,15 @@ CAPEX vs OPEX en cloud::CAPEX (gastos de capital): inversiones iniciales en hard
 - **Veces revisado**: 0
 - **Nivel de comprensión**: ✅ Domino el concepto
 - **Tiempo estimado de repaso**: 15min
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...

@@ -16,6 +16,9 @@ tipo-captura:
 complejidad: ⭐
 origen: Curso
 urgente: false
+proxima-revision: 2026-03-17
+resultado-repaso: ""
+intervalo-dias: 7
 ---
 
 # Azure Blob Storage
@@ -106,3 +109,15 @@ If you are performing analytics on the data, set up the storage account as an Az
 ---
 
 #pendiente-procesar #captura-rapida
+
+
+## 🧪 Aplicación
+
+- [ ] Explicarlo sin consultar la nota
+- [ ] Resolver un caso nuevo o escribir un ejemplo
+- [ ] Compararlo con una alternativa
+- [ ] Usarlo en un proyecto
+
+## 🔗 Conexiones explicadas
+
+- [[ ]] — Se relaciona porque...
