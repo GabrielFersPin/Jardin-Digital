@@ -18,6 +18,8 @@ tiempo-estimado: 5min
 resultado-repaso: ""
 intervalo-dias: 7
 prioridad: "media"
+innerlevel_card_id: "obsidian-data-studies-machine-learning-mlops-md-2026-09-21"
+innerlevel_last_sync: 2026-09-21
 ---
 
 # MLOps

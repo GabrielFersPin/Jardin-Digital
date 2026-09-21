@@ -1,19 +1,22 @@
 ---
 created: 2026-09-10
-modified: 2026-09-10
-area: "Big Data"
-tipo_nota: "tecnica"
-status: "🌱"
-nivel-comprension: "❓"
-proxima-revision: "2026-09-12"
-ultima-revision: "2026-09-10"
-veces-revisado: 0
-tiempo-repaso: "5min"
-tipo-captura: "concepto"
-origen: "Aprendizaje PySpark"
-resultado-repaso: ""
-intervalo-dias: 7
-prioridad: "media"
+modified: 2026-09-21
+area: Big Data
+tipo_nota: tecnica
+status: 🌿 Creciendo
+nivel-comprension: 💡
+proxima-revision: 2026-11-10
+ultima-revision: 2026-09-21
+veces-revisado: 1
+tiempo-repaso: 5min
+tipo-captura: concepto
+origen: Aprendizaje PySpark
+resultado-repaso: correcto
+intervalo-dias: 50
+prioridad: media
+innerlevel_card_id: obsidian-data-studies-big-data-pyspark-sparkcontext-md-2026-09-21
+innerlevel_last_sync: 2026-09-21
+tiempo-estimado: 20min
 ---
 
 # SparkContext
@@ -74,13 +77,12 @@ Para trabajar con DataFrames, SQL y las funciones habituales de PySpark, se debe
 ## ❓ Preguntas / Dudas pendientes
 
 - [ ] ¿Qué operaciones de RDD requieren usar directamente `SparkContext`?
+- Para operaciones de bajo nivel como consultar o crear parelelismo, crear y transformar RDD's 
 - [ ] ¿Qué diferencia hay entre un RDD y un DataFrame?
-
+- La estructura, un RDD es menos estructurado que un dataframe con columnas y filas definidas y además el redimiento de un dataframe es mayor.
 ## 🧩 Conexiones potenciales
 
-- [[SparkSession]]
-- [[Spark]]
-- [[PySpark - DataFrame]]
+- [[SparkSession]] - Es una versión más actual de SparkContext para manipular dataframes.
 
 ## ✅ Checklist procesamiento
 
@@ -99,11 +101,22 @@ Tags: #big-data #spark #pyspark #spark-context #captura-rapida
 
 ## 🧪 Aplicación
 
-- [ ] Explicarlo sin consultar la nota
+- [ ] Explicarlo sin consultar la nota ✅ 2026-09-21
 - [ ] Resolver un caso nuevo o escribir un ejemplo
-- [ ] Compararlo con una alternativa
+- [x] Compararlo con una alternativa ✅ 2026-09-21
 - [ ] Usarlo en un proyecto
 
 ## 🔗 Conexiones explicadas
 
 - [[ ]] — Se relaciona porque...
+
+
+---
+
+## 🚧 Plan de Mejora / Tareas Pendientes
+
+Define las tareas que te ayudarán a subir tu `nivel-comprension` en la próxima revisión. Usa los tags: `#mejora-concepto`, `#mejora-practica`, `#mejora-analogia`.
+
+- [ ] Tarea para aclarar una duda de concepto. Usa #mejora-concepto
+- [ ] Tarea para implementar un ejercicio práctico. Usa #mejora-practica
+- [ ] Tarea para crear una analogía o diagrama. Usa #mejora-analogia

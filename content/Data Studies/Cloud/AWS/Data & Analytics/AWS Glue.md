@@ -14,6 +14,8 @@ tiempo-estimado: 10min
 resultado-repaso: ""
 intervalo-dias: 7
 prioridad: "media"
+innerlevel_card_id: "obsidian-data-studies-cloud-aws-data-analytics-aws-glue-md-2026-09-21"
+innerlevel_last_sync: 2026-09-21
 ---
 
 # AWS Glue

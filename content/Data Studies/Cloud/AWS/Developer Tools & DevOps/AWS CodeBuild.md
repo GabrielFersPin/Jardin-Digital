@@ -1,19 +1,21 @@
 ---
 created: 2026-09-07
-modified: 2026-09-10
+modified: 2026-09-21
 area: Cloud
 tipo_nota: captura_rapida
-status: 🌱 Semilla
-nivel-comprension: 🤔
-proxima-revision: 2026-09-17
-ultima-revision: 2026-09-10
-veces-revisado: 1
+status: 🌿 Creciendo
+nivel-comprension: 💡
+proxima-revision: 2026-10-21
+ultima-revision: 2026-09-21
+veces-revisado: 2
 tiempo-repaso: 5min
 cards-deck: Nube::DevOps
 tiempo-estimado: 10min
-resultado-repaso: ""
-intervalo-dias: 7
-prioridad: "media"
+resultado-repaso: correcto
+intervalo-dias: 30
+prioridad: media
+innerlevel_card_id: obsidian-data-studies-cloud-aws-developer-tools-devops-aws-codebuild-md-2026-09-21
+innerlevel_last_sync: 2026-09-21
 ---
 
 # AWS CodeBuild
@@ -59,17 +61,18 @@ La configuración de las fases de build suele declararse en un archivo `buildspe
 
 ## 🎴 Flashcards
 
-¿Qué es AWS CodeBuild?::Es un servicio administrado que compila código, ejecuta pruebas y genera artefactos sin gestionar servidores de build. #aws #codebuild #devops
+¿Qué es AWS CodeBuild?::Es un servicio administrado que compila código, ejecuta pruebas y genera artefactos sin gestionar servidores de build. #aws #codebuild #devops #card 
 
-¿Para qué sirve el archivo `buildspec.yml`?::Para definir las fases, comandos, variables y artefactos del proceso de compilación en CodeBuild. #aws #codebuild #cicd
+¿Para qué sirve el archivo `buildspec.yml`?::Para definir las fases, comandos, variables y artefactos del proceso de compilación en CodeBuild. #aws #codebuild #cicd #card 
 
-¿Qué papel desempeña CodeBuild dentro de CodePipeline?::Ejecuta la fase de build, que puede incluir instalación de dependencias, compilación y pruebas. #aws #codebuild #codepipeline
+¿Qué papel desempeña CodeBuild dentro de CodePipeline?::Ejecuta la fase de build, que puede incluir instalación de dependencias, compilación y pruebas. #aws #codebuild #codepipeline #card 
 
 ---
 
 ## ❓ Preguntas / Dudas pendientes
 
 - [ ] ¿Qué diferencia hay entre CodeBuild y ejecutar un runner propio?
+- Es un servicio serverless que no hace falta configurar una máquina.
 
 ---
 
